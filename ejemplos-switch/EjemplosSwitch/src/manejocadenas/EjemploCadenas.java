@@ -16,7 +16,10 @@ public class EjemploCadenas {
         System.out.printf("%s\n", ciudad.toLowerCase());
         System.out.printf("%s\n", ciudad.toUpperCase());
         System.out.printf("%s\n", ciudad);
-        
+        /* to.Lowercase es un metodo que permite que pasemos un texto escrito en
+        cualquier formato a letra minuscula */
+        /* to.Uppercase tiene una funcion similar al lowercase solo que en este 
+           caso hace que la letra pase a ser mayuscula */
         
     }
 }

@@ -15,6 +15,10 @@ public class Ejemplo02 {
         String pais;
         
         pais = "Ecuador";
+        //      0123456
+        /* la funcion char permite que saquemos un caracter de una variable string
+        y crear otra variable a partir de esta.
+        */
         char letra = pais.charAt(0);
         System.out.printf("%s\n", letra);
         
